@@ -1,6 +1,12 @@
 # MSBA 502 and 503
 
+
 ## Sprint 1
+About this course
+- On Ground (no Zoom, Program Directive)
+- Expectation to present code
+- Random presention
+- Group learning, individual coding and performance
 
 ### Deliverables
 1. Load Data into variable give counts
