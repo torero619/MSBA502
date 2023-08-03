@@ -4,8 +4,8 @@
 
 ### Deliverables
 1. Load Data into variable give counts
-2. Write a For Loop to bin data
-3. Boolean mask on Datafram
+2. Write a For Loop to bin data, include IF statement
+3. Boolean mask on Dataframe
 
 ### Stretch
 
