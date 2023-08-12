@@ -8,6 +8,9 @@ About this course
 - Random presention
 - Group learning, individual coding and performance
 
+### Checklist
+1. Signup for Kaggle, DataWorld, 
+
 ### Deliverables
 1. Load Data into variable give counts
 2. Write a For Loop to bin data, include IF statement
