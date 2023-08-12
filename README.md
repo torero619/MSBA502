@@ -9,7 +9,10 @@ About this course
 - Group learning, individual coding and performance
 
 ### Checklist
-1. Signup for Kaggle, DataWorld, 
+1. Signup for Kaggle, DataWorld using your sandiego.edu Google SSO
+2. Join the Slack link
+3. vote on the post
+4. respond in thread to show that you can
 
 ### Deliverables
 1. Load Data into variable give counts
