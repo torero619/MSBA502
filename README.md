@@ -24,11 +24,6 @@ Dataset Points Breakdown
 - Attempt Function2 = +4pts
 - Code Runs Function2 = +4pts
 
-### Checklist
-1. Signup for Kaggle, DataWorld using your sandiego.edu Google SSO
-2. Join the Slack link
-3. vote on the post
-4. respond in thread to show that you can
 
 ## Sprint 1
 
