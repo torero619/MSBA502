@@ -20,6 +20,7 @@ About this course
 3. Present a subsetted dataframe with only the specified columns (Clean Data)
 
 ### Stretch Goals
+- ?
 
 ### Intermediate
 
@@ -35,6 +36,7 @@ About this course
 4. Boolean mask on Dataframe
 
 ### Stretch Goals
+- ?
 
 ### Intermediate
 * Nicely Formatted EDA with Markdown
@@ -46,6 +48,7 @@ About this course
 * Sample Queries
 
 ### Stretch Goals
+- ?
 
 ### Intermediate
 * Create your own AWS with MySQL, populate with data and show me you can query from it
@@ -56,6 +59,7 @@ About this course
 * Join Sustainable Development and WDI datasets
 
 ### Stretch Goals
+- ?
 
 ### Intermediate
 * Find me your own two datasets from your field, show me a join that makes sense and present 1 insight
@@ -66,6 +70,7 @@ About this course
 * Pokemon Dataset
 
 ### Stretch Goals
+- ?
 
 ### Intermediate
 * Find me a research paper with proxy data and apply it to a novel dataset
@@ -76,6 +81,7 @@ About this course
 * EDA from Webdata, present 1 insight
 
 ### Stretch Goals
+- ?
 
 ### Intermediate
 * EDA using Power BI or Tableau
@@ -84,6 +90,7 @@ About this course
 ## Sprint 7
 
 ### Deliverables
+- ?
 
 ### Stretch Goals
 
@@ -93,6 +100,7 @@ Provide me a self-scoped project with a business recommendation
 ## Sprint 8
 
 ### Deliverables
+- ?
 
 ### Stretch Goals
 
