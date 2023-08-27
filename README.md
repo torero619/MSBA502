@@ -11,6 +11,9 @@ About this course
 ```
 
 **(4) Sprints * (5) Datasets * 50pts**
+![image](https://github.com/torero619/MSBA502/assets/86495415/a0ed22c2-6279-4a14-bfc3-42054276dd30)
+
+
 
 ```diff
 ! (1) Dataset = 50pts
@@ -25,7 +28,7 @@ Dataset Points Breakdown
 - Code Runs Function2 = +4pts
 
 
-## Sprint 1
+## Sprint 1 (28 AUG - 7 SEP)
 
 ### Practice Datasets
 
@@ -44,7 +47,7 @@ Dataset Points Breakdown
 * Use the Bureau of Labor Statistics to download data on jobs, download it and categorize it
 * [Online Dating Data](https://www.reddit.com/r/datasets/comments/fiowrn/any_datasets_on_dating_andor_online_dating/)
 
-## Sprint 2
+## Sprint 2 (12 SEP - 21 SEP)
 
 ### Practice Datasets
 
@@ -62,7 +65,7 @@ Dataset Points Breakdown
 ### Intermediate
 * Nicely Formatted EDA with Markdown
 
-## Sprint 3
+## Sprint 3 (26 SEP - 5 OCT)
 
 ### Practice Datasets
 
@@ -77,7 +80,7 @@ Dataset Points Breakdown
 ### Intermediate
 * Create your own AWS with MySQL, populate with data and show me you can query from it
 
-## Sprint 4
+## Sprint 4 (10 OCT - 19 OCT)
 
 ### Practice Datasets
 
@@ -92,7 +95,7 @@ Dataset Points Breakdown
 ### Intermediate
 * Find me your own two datasets from your field, show me a join that makes sense and present 1 insight
 
-## Sprint 5
+## Sprint 5 (24 OCT - 02 NOV)
 
 ### Practice Datasets
 
@@ -107,7 +110,7 @@ Dataset Points Breakdown
 ### Intermediate
 * Find me a research paper with proxy data and apply it to a novel dataset
 
-## Sprint 6
+## Sprint 6 (7 NOV - 16 NOV)
 
 ### Practice Datasets
 
@@ -123,7 +126,7 @@ Dataset Points Breakdown
 * EDA using Power BI or Tableau
 * JHU Data or Open API
 
-## Sprint 7
+## Sprint 7 (21 NOV - 30 NOV)
 
 ### Practice Datasets
 
@@ -137,7 +140,7 @@ Dataset Points Breakdown
 ### Intermediate
 Provide me a self-scoped project with a business recommendation
 
-## Sprint 8
+## Sprint 8 (05 DEC - 12 DEC)
 
 ### Practice Datasets
 
