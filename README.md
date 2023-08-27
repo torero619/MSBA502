@@ -1,18 +1,17 @@
 # MSBA 502 and 503
 
-
-## Sprint 1
 About this course
 - On Ground (no Zoom, Program Directive)
 - Expectation to present code
-- Random presention
-- Group learning, individual coding and performance
+- Individual work done in groups
 
 ### Checklist
 1. Signup for Kaggle, DataWorld using your sandiego.edu Google SSO
 2. Join the Slack link
 3. vote on the post
 4. respond in thread to show that you can
+
+## Sprint 1
 
 ### Basic Deliverables
 1. Load Data into variable
@@ -21,6 +20,8 @@ About this course
 
 ### Stretch Goals
 - ?
+
+### Test Datasets
 
 ### Intermediate
 
@@ -38,6 +39,8 @@ About this course
 ### Stretch Goals
 - ?
 
+### Test Datasets
+
 ### Intermediate
 * Nicely Formatted EDA with Markdown
 
@@ -50,38 +53,46 @@ About this course
 ### Stretch Goals
 - ?
 
+### Test Datasets
+
 ### Intermediate
 * Create your own AWS with MySQL, populate with data and show me you can query from it
 
 ## Sprint 4
 
-### Deliverables
+### Basic Deliverables
 * Join Sustainable Development and WDI datasets
 
 ### Stretch Goals
 - ?
+
+### Test Datasets
 
 ### Intermediate
 * Find me your own two datasets from your field, show me a join that makes sense and present 1 insight
 
 ## Sprint 5
 
-### Deliverables
+### Basic Deliverables
 * Pokemon Dataset
 
 ### Stretch Goals
 - ?
+
+### Test Datasets
 
 ### Intermediate
 * Find me a research paper with proxy data and apply it to a novel dataset
 
 ## Sprint 6
 
-### Deliverables
+### Basic Deliverables
 * EDA from Webdata, present 1 insight
 
 ### Stretch Goals
 - ?
+
+### Test Datasets
 
 ### Intermediate
 * EDA using Power BI or Tableau
@@ -89,19 +100,23 @@ About this course
 
 ## Sprint 7
 
-### Deliverables
+### Basic Deliverables
 - ?
 
 ### Stretch Goals
+
+### Test Datasets
 
 ### Intermediate
 Provide me a self-scoped project with a business recommendation
 
 ## Sprint 8
 
-### Deliverables
+### Basic Deliverables
 - ?
 
 ### Stretch Goals
+
+### Test Datasets
 
 ### Intermediate
