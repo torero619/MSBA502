@@ -15,10 +15,9 @@ About this course
 4. respond in thread to show that you can
 
 ### Deliverables
-1. Load Data into variable give counts
-2. Present clean dataframe with only the specified columns
-3. Write a For Loop to bin data, include IF statement
-4. Boolean mask on Dataframe
+1. Load Data into variable
+2. Provide data validation (counts, dtypes)
+3. Present a subsetted dataframe with only the specified columns (Clean Data)
 
 ### Stretch
 
@@ -28,9 +27,10 @@ About this course
 ## Sprint 2
 
 ### Deliverables
-1. Load Data
-2. Run Descriptive Statistics
+1. Write a For Loop to bin data, include IF statement
+2. Provide Descriptive Statistics
 3. Basic Plotting
+4. Boolean mask on Dataframe
 
 ### Stretch
 * Nicely Formatted EDA with Markdown
