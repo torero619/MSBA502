@@ -5,6 +5,25 @@ About this course
 - Expectation to present code
 - Individual work done in groups
 
+
+```diff
+! MSBA 502 = 1000pts 
+```
+
+**(4) Sprints * (5) Datasets * 50pts**
+
+```diff
+! (1) Dataset = 50pts
+```
+
+Dataset Points Breakdown
+
+- Deliverable = +34pts
+- Attempt Function1 = +4pts
+- Code Runs Function1 = +4pts
+- Attempt Function2 = +4pts
+- Code Runs Function2 = +4pts
+
 ### Checklist
 1. Signup for Kaggle, DataWorld using your sandiego.edu Google SSO
 2. Join the Slack link
@@ -12,6 +31,8 @@ About this course
 4. respond in thread to show that you can
 
 ## Sprint 1
+
+### Practice Datasets
 
 ### Basic Deliverables
 1. Load Data into variable
@@ -30,6 +51,8 @@ About this course
 
 ## Sprint 2
 
+### Practice Datasets
+
 ### Basic Deliverables
 1. Write a For Loop to bin data, include IF statement
 2. Provide Descriptive Statistics
@@ -46,6 +69,7 @@ About this course
 
 ## Sprint 3
 
+### Practice Datasets
 
 ### Basic Deliverables
 * Sample Queries
@@ -60,6 +84,8 @@ About this course
 
 ## Sprint 4
 
+### Practice Datasets
+
 ### Basic Deliverables
 * Join Sustainable Development and WDI datasets
 
@@ -73,6 +99,8 @@ About this course
 
 ## Sprint 5
 
+### Practice Datasets
+
 ### Basic Deliverables
 * Pokemon Dataset
 
@@ -85,6 +113,8 @@ About this course
 * Find me a research paper with proxy data and apply it to a novel dataset
 
 ## Sprint 6
+
+### Practice Datasets
 
 ### Basic Deliverables
 * EDA from Webdata, present 1 insight
@@ -100,6 +130,8 @@ About this course
 
 ## Sprint 7
 
+### Practice Datasets
+
 ### Basic Deliverables
 - ?
 
@@ -111,6 +143,8 @@ About this course
 Provide me a self-scoped project with a business recommendation
 
 ## Sprint 8
+
+### Practice Datasets
 
 ### Basic Deliverables
 - ?
