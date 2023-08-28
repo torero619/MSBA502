@@ -31,9 +31,9 @@ Dataset Points Breakdown
 ## Sprint 1 (28 AUG - 7 SEP)
 
 ### Practice Datasets
--[Pokemon](https://github.com/torero619/MSBA502/blob/main/Data/pokemon_data.csv)
--[Movies](https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction?select=movies.csv)
--[Food choices](https://www.kaggle.com/datasets/borapajo/food-choices?select=food_coded.csv)
+- [Pokemon](https://github.com/torero619/MSBA502/blob/main/Data/pokemon_data.csv)
+- [Movies](https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction?select=movies.csv)
+- [Food choices](https://www.kaggle.com/datasets/borapajo/food-choices?select=food_coded.csv)
 
 ### Basic Deliverables
 1. Load Data into variable
