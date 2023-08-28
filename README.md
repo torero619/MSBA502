@@ -45,8 +45,8 @@ Dataset Points Breakdown
 - ?
 
 ### Test Datasets
--TBD
--TBD
+- TBD
+- TBD
 
 ### Intermediate
 
@@ -70,7 +70,9 @@ Dataset Points Breakdown
 - ?
 
 ### Test Datasets
-
+- TBD
+- TBD
+  
 ### Intermediate
 * Nicely Formatted EDA with Markdown
 
