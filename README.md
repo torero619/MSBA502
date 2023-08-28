@@ -51,7 +51,10 @@ Dataset Points Breakdown
 ## Sprint 2 (12 SEP - 21 SEP)
 
 ### Practice Datasets
-
+- Healthcare
+- Marketing
+- NBA
+  
 ### Basic Deliverables
 1. Write a For Loop to bin data, include IF statement
 2. Provide Descriptive Statistics
