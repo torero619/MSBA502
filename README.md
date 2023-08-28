@@ -36,6 +36,7 @@ Dataset Points Breakdown
 1. Load Data into variable
 2. Provide data validation (counts, dtypes)
 3. Present a subsetted dataframe with only the specified columns (Clean Data)
+4. Complete Behavioral Survey on Blackboard
 
 ### Stretch Goals
 - ?
