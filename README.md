@@ -29,7 +29,7 @@ Dataset Points Breakdown
 - Code Runs Stretch Goal2 = +4pts
 
 
-## Sprint 1 (28 AUG - 7 SEP)
+## Sprint 1 (28 AUG - 07 SEP)
 
 ### Practice Datasets
 - [Pokemon](https://github.com/torero619/MSBA502/blob/main/Data/pokemon_data.csv)
@@ -77,7 +77,7 @@ Dataset Points Breakdown
 ### Intermediate
 * Nicely Formatted EDA with Markdown
 
-## Sprint 3 (26 SEP - 5 OCT)
+## Sprint 3 (26 SEP - 05 OCT)
 
 ### Practice Datasets
 
@@ -122,7 +122,7 @@ Dataset Points Breakdown
 ### Intermediate
 * Find me a research paper with proxy data and apply it to a novel dataset
 
-## Sprint 6 (7 NOV - 16 NOV)
+## Sprint 6 (07 NOV - 16 NOV)
 
 ### Practice Datasets
 
