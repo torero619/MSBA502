@@ -43,7 +43,8 @@ Dataset Points Breakdown
 4. Complete Behavioral Survey on Blackboard
 
 ### Stretch Goals
-- ?
+- replace null values
+- calculated columns
 
 ### Test Datasets
 - TBD
