@@ -41,6 +41,7 @@ Dataset Points Breakdown
 2. Provide data validation (counts, dtypes)
 3. Present a subsetted dataframe with only the specified columns (Clean Data)
 4. Complete Behavioral Survey on Blackboard
+5. Resume
 
 ### Stretch Goals
 - replace null values
