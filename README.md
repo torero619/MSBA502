@@ -5,7 +5,7 @@ About this course
 - On Ground (no Zoom, Program Directive)
 - Expectation to present code
 - Individual work done in groups
-- Schedule: M/W 4PM-5:20PM
+- **Schedule: M/W 4PM-5:20PM**
 
 
 ```diff
