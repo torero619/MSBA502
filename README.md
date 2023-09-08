@@ -58,8 +58,7 @@ Dataset Points Breakdown
 
 ### Intermediate
 
-* Use the Bureau of Labor Statistics to download data on jobs, download it and categorize it
-* [Online Dating Data](https://www.reddit.com/r/datasets/comments/fiowrn/any_datasets_on_dating_andor_online_dating/)
+- ?
 
 ## Sprint 2 (11 SEP - 20 SEP)
 
@@ -72,7 +71,8 @@ Dataset Points Breakdown
 1. Write a For Loop to bin data, include IF statement
 2. Provide Descriptive Statistics
 3. Basic Plotting
-4. Boolean mask on Dataframe
+4. Nicely Formatted EDA with Markdown
+5. Boolean mask on Dataframe
 
 ### Stretch Goals
 - ?
@@ -82,7 +82,9 @@ Dataset Points Breakdown
 - TBD
   
 ### Intermediate
-* Nicely Formatted EDA with Markdown
+* Use the Bureau of Labor Statistics to download data on jobs, download it and categorize it
+* [Online Dating Data](https://www.reddit.com/r/datasets/comments/fiowrn/any_datasets_on_dating_andor_online_dating/)
+
 
 ## Sprint 3 (25 SEP - 04 OCT)
 
