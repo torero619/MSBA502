@@ -70,7 +70,7 @@ Dataset Points Breakdown
   
 ### Basic Deliverables
 1. Bin data (recommend use .cut() or IF ELSE or For Loop)
-2. Provide Descriptive Statistics of subsetted groups against each other
+2. Provide Descriptive Statistics of subsetted groups against each other and interpretation
 3. Nicely Formatted EDA with Markdown
 
 ### Stretch Goals
