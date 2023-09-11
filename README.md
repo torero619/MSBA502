@@ -63,7 +63,7 @@ Dataset Points Breakdown
 ## Sprint 2 (11 SEP - 20 SEP)
 
 ### Practice Datasets
-- [Healthcare]
+- [Healthcare](https://github.com/torero619/biostats549/blob/main/Data/4_1%20and%204_2.csv)
 - [Movies](https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction?select=movies.csv)
 - [Grocery Stores](https://data.world/cityofchicago/grocery-stores-2011)
 - [College Basketball](https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021)
