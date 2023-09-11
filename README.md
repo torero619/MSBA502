@@ -63,19 +63,19 @@ Dataset Points Breakdown
 ## Sprint 2 (11 SEP - 20 SEP)
 
 ### Practice Datasets
-- Healthcare
-- Marketing
-- NBA
+- [Healthcare]
+- [Movies](https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction?select=movies.csv)
+- [Grocery Stores](https://data.world/cityofchicago/grocery-stores-2011)
+- [College Basketball](https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021)
   
 ### Basic Deliverables
 1. Write a For Loop to bin data, include IF statement
-2. Provide Descriptive Statistics
-3. Basic Plotting
-4. Nicely Formatted EDA with Markdown
-5. Boolean mask on Dataframe
+2. Provide Descriptive Statistics of subsetted groups against each other
+3. Nicely Formatted EDA with Markdown
 
 ### Stretch Goals
-- ?
+- Basic Plotting
+- Use regex to clean a column
 
 ### Test Datasets
 - TBD
