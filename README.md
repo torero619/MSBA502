@@ -69,8 +69,10 @@ Dataset Points Breakdown
 - [College Basketball](https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021)
   
 ### Basic Deliverables
-1. Bin data 
-2. Use one of the following: .cut() or For Loop or IF ELSE
+1. Bin data and use one of the following
+    - .cut()
+    - For Loop 
+    - IF ELSE
 3. Provide Descriptive Statistics of subsetted groups against each other and interpretation
 4. Nicely Formatted EDA with Markdown
 
