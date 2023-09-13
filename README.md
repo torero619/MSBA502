@@ -80,7 +80,7 @@ Dataset Points Breakdown
 - .cut()
 - For Loop
 - IF ELSE
-- Basic Plotting
+- Basic Plotting (histograms count)
 - Use regex to clean a column
 
 ### Test Datasets
@@ -88,8 +88,6 @@ Dataset Points Breakdown
 - TBD
   
 ### Intermediate
-* Use the Bureau of Labor Statistics to download data on jobs, download it and categorize it
-* [Online Dating Data](https://www.reddit.com/r/datasets/comments/fiowrn/any_datasets_on_dating_andor_online_dating/)
 
 
 ## Sprint 3 (25 SEP - 04 OCT)
@@ -106,7 +104,6 @@ Dataset Points Breakdown
 ### Test Datasets
 
 ### Intermediate
-* Create your own AWS with MySQL, populate with data and show me you can query from it
 
 ## Sprint 4 (09 OCT - 18 OCT)
 
@@ -122,6 +119,9 @@ Dataset Points Breakdown
 
 ### Intermediate
 * Find me your own two datasets from your field, show me a join that makes sense and present 1 insight
+* Use the Bureau of Labor Statistics to download data on jobs, download it and categorize it
+* [Online Dating Data](https://www.reddit.com/r/datasets/comments/fiowrn/any_datasets_on_dating_andor_online_dating/)
+* Create your own AWS with MySQL, populate with data and show me you can query from it
 
 ## Sprint 5 (23 OCT - 01 NOV)
 
