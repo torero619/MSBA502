@@ -67,6 +67,7 @@ Dataset Points Breakdown
 - [Movies](https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction?select=movies.csv)
 - [Superstore](https://data.world/vizwiz/superstore-20203)
 - [College Basketball](https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021)
+- [IMDB](https://raw.githubusercontent.com/torero619/MSBA502/main/Data/imdb_1000.csv)
   
 ### Basic Deliverables
 1. Bin data and use one of the following
