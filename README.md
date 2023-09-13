@@ -69,11 +69,15 @@ Dataset Points Breakdown
 - [College Basketball](https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021)
   
 ### Basic Deliverables
-1. Bin data (recommend use .cut() or For Loop or IF ELSE)
-2. Provide Descriptive Statistics of subsetted groups against each other and interpretation
-3. Nicely Formatted EDA with Markdown
+1. Bin data 
+2. Use one of the following: .cut() or For Loop or IF ELSE
+3. Provide Descriptive Statistics of subsetted groups against each other and interpretation
+4. Nicely Formatted EDA with Markdown
 
 ### Stretch Goals
+- .cut()
+- For Loop
+- IF ELSE
 - Basic Plotting
 - Use regex to clean a column
 
@@ -91,7 +95,8 @@ Dataset Points Breakdown
 ### Practice Datasets
 
 ### Basic Deliverables
-* Sample Queries
+1. Subset data, demonstrate you can use use .cut() and For Loop and IF ELSE
+2. 
 
 ### Stretch Goals
 - ?
