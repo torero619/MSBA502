@@ -24,11 +24,11 @@ About this course
 
 Dataset Points Breakdown
 
-- Deliverable = +34pts
-- Attempt Stretch Goal1 = +4pts
-- Code Runs Stretch Goal1 = +4pts
-- Attempt Stretch Goal2 = +4pts
-- Code Runs Stretch Goal2 = +4pts
+- Deliverable = +33pts
+- Attempt Stretch Goal1 = +3pts
+- Code Runs Stretch Goal1 = +3pts
+- Attempt Stretch Goal2 = +3pts
+- Code Runs Stretch Goal2 = +3pts
 
 
 ## Sprint 1 (28 AUG - 06 SEP)
