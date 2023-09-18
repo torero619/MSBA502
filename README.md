@@ -12,13 +12,14 @@ About this course
 ! MSBA 502 = 1000pts 
 ```
 
-**(4) Sprints * (5) Datasets * 50pts**
+**(4) Sprints * (5) Datasets * 45pts**
 ![image](https://github.com/torero619/MSBA502/assets/86495415/a0ed22c2-6279-4a14-bfc3-42054276dd30)
 
 
 
 ```diff
-! (1) Dataset = 50pts
+! (1) Dataset = 45pts
+! (1) Sprint Retrospective = 25pts
 ```
 
 Dataset Points Breakdown
