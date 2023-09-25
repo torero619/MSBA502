@@ -96,8 +96,10 @@ Dataset Points Breakdown
 
 ### Practice Datasets
 - [College Basketball](https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021)
+- [Healthcare](https://github.com/torero619/biostats549/blob/main/Data/4_1%20and%204_2.csv)
 - Titanic
 - Drinks
+- Bureau of Labor Statistics
 
 ### Basic Deliverables
 1. Demonstrate you can use use a For Loop and IF ELSE
@@ -119,18 +121,22 @@ Dataset Points Breakdown
 ## Sprint 4 (09 OCT - 18 OCT)
 
 ### Practice Datasets
-
+- Dataset1
+- Dataset2
+- Dataset3
+- 
 ### Basic Deliverables
-* Join Sustainable Development and WDI datasets
+
 
 ### Stretch Goals
-- ?
+- Find me your own two datasets from your field, show me a join that makes sense and present 1 insight
 
 ### Test Datasets
+- TBD
+- TBD
 
 ### Intermediate
-* Find me your own two datasets from your field, show me a join that makes sense and present 1 insight
-* Use the Bureau of Labor Statistics to download data on jobs, download it and categorize it
+* Join Sustainable Development and WDI datasets
 * [Online Dating Data](https://www.reddit.com/r/datasets/comments/fiowrn/any_datasets_on_dating_andor_online_dating/)
 * Create your own AWS with MySQL, populate with data and show me you can query from it
 
