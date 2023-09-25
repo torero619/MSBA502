@@ -95,15 +95,24 @@ Dataset Points Breakdown
 ## Sprint 3 (25 SEP - 04 OCT)
 
 ### Practice Datasets
+- [College Basketball](https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021)
+- Titanic
+- Drinks
 
 ### Basic Deliverables
-1. Subset data, demonstrate you can use use .cut() and For Loop and IF ELSE
-2. 
+1. Demonstrate you can use use a For Loop and IF ELSE
+2. Use loc to subset data
+3. Use apply to manipulate data
+4. Nicely Formatted EDA with Markdown
 
 ### Stretch Goals
-- ?
+- perform a statistical test comparing two groups and provide an interpretation of your results
+- export your data to CSV
+- Perform deliverables on a self-discovered dataset (+12)
 
 ### Test Datasets
+- TBD
+- TBD
 
 ### Intermediate
 
