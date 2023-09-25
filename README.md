@@ -102,10 +102,11 @@ Dataset Points Breakdown
 - Bureau of Labor Statistics
 
 ### Basic Deliverables
-1. Demonstrate you can use use a For Loop and IF ELSE
-2. Use loc to subset data
-3. Use apply to manipulate data
-4. Nicely Formatted EDA with Markdown
+1. Descriptive Statistics with suggestions for further research
+2. Demonstrate you can use use a For Loop and IF ELSE
+3. Use loc to subset data
+4. Use apply to manipulate data
+5. Nicely Formatted EDA with Markdown
 
 ### Stretch Goals
 - perform a statistical test comparing two groups and provide an interpretation of your results
@@ -124,7 +125,7 @@ Dataset Points Breakdown
 - Dataset1
 - Dataset2
 - Dataset3
-- 
+
 ### Basic Deliverables
 
 
