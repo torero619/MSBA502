@@ -57,10 +57,6 @@ Dataset Points Breakdown
 - TBD (probably BLS data)
 - TBD (probably BLS data)
 
-### Intermediate
-
-- ?
-
 ## Sprint 2 (11 SEP - 20 SEP)
 
 ### Practice Datasets
@@ -89,8 +85,6 @@ Dataset Points Breakdown
 - TBD
 - TBD
   
-### Intermediate
-
 
 ## Sprint 3 (25 SEP - 04 OCT)
 
@@ -117,7 +111,7 @@ Dataset Points Breakdown
 - TBD
 - TBD
 
-### Intermediate
+
 
 ## Sprint 4 (09 OCT - 18 OCT)
 
