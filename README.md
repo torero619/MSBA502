@@ -93,6 +93,8 @@ Dataset Points Breakdown
 - [Healthcare](https://github.com/torero619/biostats549/blob/main/Data/4_1%20and%204_2.csv)
 - Titanic
 - Drinks
+
+### Self-Discover Datasets
 - Bureau of Labor Statistics
 
 ### Basic Deliverables
