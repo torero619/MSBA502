@@ -123,26 +123,28 @@ Dataset Points Breakdown
 - Dataset3
 
 ### Basic Deliverables
-
+- Find me your own two datasets from your field, show me a join that makes sense and present 1 insight
+- Utilize Tableau/Power BI
 
 ### Stretch Goals
-- Find me your own two datasets from your field, show me a join that makes sense and present 1 insight
+- Utilize a web scraper to obtain your own data
+- Utilize other means to generate unique data
 
 ### Test Datasets
 - TBD
 - TBD
 
 ### Intermediate
-* Join Sustainable Development and WDI datasets
-* [Online Dating Data](https://www.reddit.com/r/datasets/comments/fiowrn/any_datasets_on_dating_andor_online_dating/)
-* Create your own AWS with MySQL, populate with data and show me you can query from it
+- Join Sustainable Development and WDI datasets
+- [Online Dating Data](https://www.reddit.com/r/datasets/comments/fiowrn/any_datasets_on_dating_andor_online_dating/)
+- Create your own AWS with MySQL, populate with data and show me you can query from it
 
 ## Sprint 5 (23 OCT - 01 NOV)
 
 ### Practice Datasets
 
 ### Basic Deliverables
-* Pokemon Dataset
+- Pokemon Dataset
 
 ### Stretch Goals
 - ?
