@@ -118,15 +118,18 @@ Dataset Points Breakdown
 ## Sprint 4 (09 OCT - 18 OCT)
 
 ### Practice Datasets
-- Dataset1
-- Dataset2
+- see below
+- Scraped
 - Dataset3
 
 ### Basic Deliverables
-- Find me your own two datasets from your field, show me a join that makes sense and present 1 insight
-- Utilize Tableau/Power BI
+- Find me your own two datasets from your field 
+- Utilize Tableau/Power BI to present a visual insight
 
 ### Stretch Goals
+- recommend how your insight ties into a revenue model
+- recommend further area of research
+- Demonstrate a join (if appropriate) that leads to an insight
 - Utilize a web scraper to obtain your own data
 - Utilize other means to generate unique data
 
