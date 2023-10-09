@@ -121,7 +121,7 @@ Dataset Points Breakdown
 - Scraped
 
 ### Basic Deliverables
-- Find me your own two or more datasets from your field 
+- Find two or more datasets from your field 
 - Utilize Tableau/Power BI to present a visual insight
 - Inexperienced coders will be explaining their code
 - Experienced coders will be explaining business use case
