@@ -123,6 +123,7 @@ Dataset Points Breakdown
 ### Basic Deliverables
 - Find two or more datasets from your field 
 - Utilize Tableau/Power BI to present a visual insight
+- must use [hypothesis driven framework](https://caseprep.files.wordpress.com/2014/02/issue-tree.png)
 - Inexperienced coders will be explaining their code
 - Experienced coders will be explaining business use case
 
