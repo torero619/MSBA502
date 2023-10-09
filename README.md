@@ -114,17 +114,17 @@ Dataset Points Breakdown
 - TBD
 
 
-
 ## Sprint 4 (09 OCT - 18 OCT)
 
 ### Practice Datasets
 - see below
 - Scraped
-- Dataset3
 
 ### Basic Deliverables
-- Find me your own two datasets from your field 
+- Find me your own two or more datasets from your field 
 - Utilize Tableau/Power BI to present a visual insight
+- Inexperienced coders will be explaining their code
+- Experienced coders will be explaining business use case
 
 ### Stretch Goals
 - recommend how your insight ties into a revenue model
