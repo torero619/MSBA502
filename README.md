@@ -134,10 +134,6 @@ Dataset Points Breakdown
 - Utilize a web scraper to obtain your own data
 - Utilize other means to generate unique data
 
-### Test Datasets
-- TBD
-- TBD
-
 ### Intermediate
 - Join Sustainable Development and WDI datasets
 - [Online Dating Data](https://www.reddit.com/r/datasets/comments/fiowrn/any_datasets_on_dating_andor_online_dating/)
@@ -148,55 +144,40 @@ Dataset Points Breakdown
 ### Practice Datasets
 
 ### Basic Deliverables
-- Pokemon Dataset
+- Perform a Retrospective and Steps for Sprint 6
+- Setup Kanban
+- Attempt Scope (what question are you trying to answer?)
+- Decide on Proof of Concept
 
 ### Stretch Goals
-- ?
-
-### Test Datasets
-
-### Intermediate
+* Automated Analysis pipeline
+* Proof of concept
 * Find me a research paper with proxy data and apply it to a novel dataset
+
+### Datasets & Tooling
+* EDA using Power BI or Tableau
+* JHU Data or Open API
+* Data for Social Good class? 
 
 ## Sprint 6 (06 NOV - 15 NOV)
 
-### Practice Datasets
-
 ### Basic Deliverables
-* EDA from Webdata, present 1 insight
-
-### Stretch Goals
-- ?
-
-### Test Datasets
-
-### Intermediate
-* EDA using Power BI or Tableau
-* JHU Data or Open API
+* Perform a Retrospective and Steps for Sprint 7
+* Deliver Proof of Concept
 
 ## Sprint 7 (20 NOV - 29 NOV)
 
-### Practice Datasets
-
 ### Basic Deliverables
-- ?
+* Perform a Retrospective and Steps for Sprint 8
+* Improve on Proof of Concept
 
 ### Stretch Goals
-
-### Test Datasets
-
-### Intermediate
-Provide me a self-scoped project with a business recommendation
 
 ## Sprint 8 (04 DEC - 11 DEC)
 
-### Practice Datasets
-
 ### Basic Deliverables
-- ?
+- Improve on Proof of Concept
+- Amazon Style 6 pager
 
 ### Stretch Goals
 
-### Test Datasets
-
-### Intermediate
