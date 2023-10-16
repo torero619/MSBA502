@@ -144,8 +144,10 @@ Dataset Points Breakdown
 ### Practice Datasets
 
 ### Basic Deliverables
-- Perform a Retrospective and Steps for Sprint 6
+- Agree on stand up time
 - Setup Kanban
+- Perform 10 stand ups
+- Perform a Retrospective and Steps for Sprint 6
 - Attempt Scope (what question are you trying to answer?)
 - Decide on Proof of Concept
 
@@ -162,13 +164,15 @@ Dataset Points Breakdown
 ## Sprint 6 (06 NOV - 15 NOV)
 
 ### Basic Deliverables
-* Perform a Retrospective and Steps for Sprint 7
+* Perform 10 stand ups
+* Perform a Kickoff and Retrospective and Steps for Sprint 7
 * Deliver Proof of Concept
 
 ## Sprint 7 (20 NOV - 29 NOV)
 
 ### Basic Deliverables
-* Perform a Retrospective and Steps for Sprint 8
+* Perform 10 stand ups
+* Perform a Kickoff and Retrospective and Steps for Sprint 8
 * Improve on Proof of Concept
 
 ### Stretch Goals
@@ -176,6 +180,7 @@ Dataset Points Breakdown
 ## Sprint 8 (04 DEC - 11 DEC)
 
 ### Basic Deliverables
+- Perform 10 stand ups
 - Improve on Proof of Concept
 - Amazon Style 6 pager
 
