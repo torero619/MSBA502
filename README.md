@@ -1,5 +1,4 @@
-# MSBA 502 and 503
-
+# MSBA 502
 About this course
 - [Introduction Video ~4min](https://youtu.be/yyQPr18SAAs)
 - On Ground (no Zoom, Program Directive)
